@@ -13,7 +13,7 @@ The members are:
 * Iffa
 * Angel
 * Azka
-* Yulia
+* [Yulia](https://github.com/YuliaRatsa)
 
 All of them are mathematics student at Universitas Brawijaya
 
