@@ -9,7 +9,7 @@ We learn about:
 * Python (upcoming)
 
 The members are:
-* Luthfi
+* [Luthfi](https://github.com/luthfioye)
 * Iffa
 * Angel
 * Azka
