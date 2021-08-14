@@ -9,7 +9,7 @@ We learn about:
 * Python (upcoming)
 
 The members are:
-* Lutfi
+* Luthfi
 * Iffa
 * Angel
 * Azka
