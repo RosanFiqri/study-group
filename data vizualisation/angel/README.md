@@ -1,5 +1,8 @@
-### Task: 
-* Create a new branch from main branch, which name `your_name-dataviz` eg: `iffa-dataviz`
-* Inside this README.md file Elaborate your previous data vizualisation/analysis using google data studio as well as put the data studio link here. You may delete this command after you finish with the task
-* Create a PR with reviewer azka
-* After been approved you can merged it to main branch
+Berikut ini merupakan tugas mengenai `Visualisasi Data di Google Data Studio`. 
+Pada tugas ini saya menggunakan Data Perpindahan Penduduk Keluar dari Provinsi DKI Jakarta pada 2 tahun terakhir yaitu tahun 2020 dan 2021.
+Terdapat  faktor yang ditampilkan yang dapat mempengaruhi terjadinya perpindahan penduduk, yaitu : 
+* Pekerjaan 
+* Status 
+* Asal Daerah
+
+Berikut merupakan link dari Hasil Visualisasi Data. [Klik](https://datastudio.google.com/reporting/e2338749-4157-423d-a8b9-b603faea709a)
