@@ -11,7 +11,7 @@ We learn about:
 The members are:
 * [Luthfi](https://github.com/luthfioye)
 * Iffa
-* Angel
+* [Angel](https://github.com/angelwijaya06)
 * Azka
 * [Yulia](https://github.com/YuliaRatsa)
 
