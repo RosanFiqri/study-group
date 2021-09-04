@@ -1,5 +1,6 @@
-### Task: 
-* Create a new branch from main branch, which name `your_name-dataviz` eg: `iffa-dataviz`
-* Inside this README.md file Elaborate your previous data vizualisation/analysis using google data studio as well as put the data studio link here. You may delete this command after you finish with the task
-* Create a PR with reviewer iffa
-* After been approved you can merged it to main branch
+This is a task that I have completed some time ago. 
+In this task I visualize `Popular Films` produced by world-renowned studios. You can easily search for various films based on film ratings, film duration, or favorite genres that you want.
+
+For more details, click the link below 
+
+https://datastudio.google.com/u/2/reporting/10ca9566-db2a-4be1-b40f-14e1667536be/page/LkNzB
