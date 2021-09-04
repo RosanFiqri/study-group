@@ -2,11 +2,12 @@
 
 This is the host repository for `Belajar Data Analysis` study group.
 We learn about:
-* SQL
+* SQL 
 * Data Visualization with Google Data Studio
 * Story Telling with Data
-* Git (on going)
-* Python (upcoming)
+* Git 
+* Experimentation
+* Python (Hold)
 
 The members are:
 * [Luthfi](https://github.com/luthfioye)
